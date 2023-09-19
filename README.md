@@ -33,3 +33,7 @@ To tackle the diverse challenges posed by Sokoban puzzles, we are exploring vari
 4. **Uniform Cost Search (UCS)**: UCS is a variant of Dijkstra's algorithm, which prioritizes paths based on their cost. We'll apply UCS to find the least costly solutions to Sokoban puzzles.
 
 5. **A* (A Star Search)**: A* is a heuristic search algorithm that balances the cost of the path and an estimate of the remaining cost to reach the goal. We'll implement A* to efficiently solve Sokoban puzzles.
+
+## Sokoban Game Environment
+
+The Sokoban game environment used in this project has been coded in Python. It offers functionalities similar to a Sokoban game included in one of my previous projects on GitHub, which was implemented in Kotlin.
