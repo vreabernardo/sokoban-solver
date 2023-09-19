@@ -1,0 +1,6 @@
+sprite_coordinates = dict(sourceSize=(241, 272), UP0=(0, 1), Right0=(0, 55), Down0=(0, 109), Left0=(0, 163),
+                    UPS=(40, 1), RightS=(40, 55), DownS=(40, 109), LeftS=(40, 163), UP1=(81, 1), Right1=(81, 55),
+                    Down1=(81, 109), Left1=(81, 163), UP1P=(121, 1), Right1P=(121, 55), Down1P=(121, 109),
+                    Left1P=(121, 163), UPPS=(160, 1), RightPS=(160, 55), DownPS=(160, 109), LeftPS=(160, 163),
+                    UP0P=(200, 1), Right0P=(200, 55), Down0P=(200, 109), Left0P=(200, 163), BOX=(80, 218),
+                    BoxOnTarget=(120, 218), TARGET=(0, 218), WALL=(40, 218))
