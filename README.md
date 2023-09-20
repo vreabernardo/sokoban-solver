@@ -24,15 +24,15 @@ The possibility of making irreversible mistakes makes these puzzles so challengi
 
 To tackle the diverse challenges posed by Sokoban puzzles, we are exploring various algorithmic approaches:
 
-1. **Reinforcement Learning (RL)**: We are developing an RL-based agent to learn optimal strategies for solving Sokoban puzzles. This involves training the agent to make intelligent decisions while considering the long-term consequences of its actions.
+1. **Reinforcement Learning (RL)**: This involves training a agent to make intelligent decisions while considering the long-term consequences of its actions.
 
-2. **Breadth-First Search (BFS)**: BFS is a classic graph search algorithm that explores all possible paths systematically. We'll implement BFS to find solutions for Sokoban puzzles by exploring the state space.
+2. **Breadth-First Search (BFS)**: BFS is a classic graph search algorithm that explores all possible paths systematically.
 
-3. **Depth-First Search (DFS)**: DFS is another graph search algorithm that delves deep into a path before backtracking. We'll use DFS to explore Sokoban puzzle states and find potential solutions.
+3. **Depth-First Search (DFS)**: DFS is another graph search algorithm that delves deep into a path before backtracking
 
-4. **Uniform Cost Search (UCS)**: UCS is a variant of Dijkstra's algorithm, which prioritizes paths based on their cost. We'll apply UCS to find the least costly solutions to Sokoban puzzles.
+4. **Uniform Cost Search (UCS)**: UCS is a variant of Dijkstra's algorithm, which prioritizes paths based on their cost.
 
-5. **A* (A Star Search)**: A* is a heuristic search algorithm that balances the cost of the path and an estimate of the remaining cost to reach the goal. We'll implement A* to efficiently solve Sokoban puzzles.
+5. **A* (A Star Search)**: A* is a heuristic search algorithm that balances the cost of the path and an estimate of the remaining cost to reach the goal.
 
 ## Sokoban Game Environment
 
